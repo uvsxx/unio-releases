@@ -10,7 +10,7 @@ it installs an update, so a copy of these files on any other host is just as goo
 Install:
 
     # Windows (PowerShell)
-    irm https://github.com/J-SpaceX/unio-releases/releases/latest/download/install.ps1 | iex
+    irm https://github.com/uvsxx/unio-releases/releases/latest/download/install.ps1 | iex
 
     # Linux, macOS
-    curl -fsSL https://github.com/J-SpaceX/unio-releases/releases/latest/download/install.sh | sh
+    curl -fsSL https://github.com/uvsxx/unio-releases/releases/latest/download/install.sh | sh
