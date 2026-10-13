@@ -1,6 +1,6 @@
 # unio releases
 
-Public downloads of [unio](https://unio.sh), the team task tracker. Built and published by the
+Public downloads of unio, the team task tracker. Built and published by the
 release workflow of the (private) source repository; nothing here is edited by hand.
 
 Every release carries `manifest.json` with the SHA-256 of each binary and `manifest.json.sig`, an
